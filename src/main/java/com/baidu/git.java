@@ -8,6 +8,7 @@ public class git {
         System.out.println("第三次测试");
         System.out.println("第4次测试");
         System.out.println("第五次测试");
+        System.out.println("第六次测试室");
 
 
     }
